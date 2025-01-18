@@ -74,7 +74,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Robera Bilata
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/roberabilata/
 - **Date**: January 15, 2025
 
 ## Validated By:
